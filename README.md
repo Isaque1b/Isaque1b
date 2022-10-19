@@ -1,6 +1,6 @@
 - 👋 oiie eu sou o @Isaque1b
 - 👀 estou interesado em aprender 
-- 🌱 estou aprendendo programacao
+- 🌱 estou aprendendo programação
 - 💞️ estou colaborando no curso 
 - 📫 email: isaque.kerkhoff@escola.pr.gov.br
 
